@@ -112,7 +112,7 @@ html,body{
     background-position: 0 15%;
 }
 
-@media (max-width: 600px){
+@media(max-width:600px){
 
     #nav{
         height: 60px;
